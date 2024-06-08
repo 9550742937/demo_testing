@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.zaproxy</groupId>
             <artifactId>zap-clientapi</artifactId>
-            <version>1.11.0</version>
+            <version>1.14.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
